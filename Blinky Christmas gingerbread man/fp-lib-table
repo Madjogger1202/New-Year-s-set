@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "PY32F002BF15U6TR")(type "KiCad")(uri "${KIPRJMOD}/library/PY32F002BF15U6TR.pretty")(options "")(descr ""))
+)
